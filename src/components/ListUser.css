@@ -1,0 +1,20 @@
+.card {
+  margin: 20px 0;
+  border: 1px rgba(0, 0, 0, 0.189) solid;
+  border-radius: 4px;
+  background-color: white;
+  padding: 5px 10px;
+  -webkit-box-shadow: -4px 3px 32px -26px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -4px 3px 32px -26px rgba(0, 0, 0, 0.75);
+  box-shadow: -4px 3px 32px -26px rgba(0, 0, 0, 0.75);
+}
+.usertitle {
+  font-size: 24px;
+}
+.title {
+  font-weight: bold;
+}
+.value {
+  font-size: 14px;
+  padding-right: 4px;
+}
